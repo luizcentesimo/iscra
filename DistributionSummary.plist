@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Unity-iPhone.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>C77938D94B3DA539DB898B6DD0260251B7597171</string>
+				<key>dateExpires</key>
+				<string>03/10/2018</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>ANBAP82U89.com.Centesimo.ISCRA</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>ANBAP82U89</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>ANBAP82U89.com.Centesimo.ISCRA</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>ISCRA.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>8c6732a9-75eb-41a2-8074-4a3e9eee46f9</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.Centesimo.ISCRA</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>ANBAP82U89</string>
+				<key>name</key>
+				<string>Centésimo Tecnologia da Informação Ltda - ME</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
